@@ -1,6 +1,5 @@
 # Pon-De-Ring-Pay2
 
-This repository contains a simple number guessing game implemented in HTML, CSS and JavaScript.
 
 ## Running Locally
 Open `index.html` in a browser to play the game locally.
