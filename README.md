@@ -1,6 +1,5 @@
 # Pon-De-Ring-Pay2
 
-This repository contains a simple eight-direction scrolling shooter game built with HTML5 canvas and vanilla JavaScript.
 
 ## Running Locally
 Open `index.html` in a browser to play the game locally.
