@@ -1,0 +1,2 @@
+Description: A larger, orange projectile, approx 20x8 pixels. Slightly pointed nose and small fins at the back.
+Default orientation: Horizontal, pointing right.

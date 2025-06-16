@@ -1,0 +1,2 @@
+Description: A short burst of white noise with a quick fade-out, like a "kshh" or "boom". Medium-high volume.
+Purpose: For standard enemy (AAGun, Fighter Jet) and warehouse destruction.

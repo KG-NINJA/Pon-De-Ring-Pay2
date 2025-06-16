@@ -1,0 +1,2 @@
+Description: A descending, melancholic series of tones or a slow "wa-wa-waaa" sound. Medium volume.
+Purpose: Played when the player's health reaches zero and the game is over.

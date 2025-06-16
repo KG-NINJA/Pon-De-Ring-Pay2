@@ -1,0 +1,2 @@
+Description: A brown, rectangular building shape, approx 100x60 pixels. Slightly darker brown flat roof. Small door or window detail.
+Default orientation: Front-facing.

@@ -1,0 +1,2 @@
+Description: A larger, multi-layered explosion sound with a longer decay and some rumbling. High volume.
+Purpose: For the destruction of the Giant Battleship.

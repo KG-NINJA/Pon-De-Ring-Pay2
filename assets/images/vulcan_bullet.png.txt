@@ -1,0 +1,2 @@
+Description: A small, bright yellow elongated rectangle or streak, approx 10x4 pixels.
+Default orientation: Horizontal, pointing right.

@@ -1,0 +1,2 @@
+Description: A generic laser-like "zap" or "pew" sound. Medium volume.
+Purpose: Used by AAGun, Fighter Jet turrets, and Battleship turrets for simplicity.

@@ -1,0 +1,2 @@
+Description: A very large, very dark gray rectangle (e.g., 640x100 pixels). On its deck, 3-5 small, lighter gray turret shapes are visible as part of the main sprite.
+Default orientation: Side-view, facing right (though movement is horizontal, so it appears as a broadside view).

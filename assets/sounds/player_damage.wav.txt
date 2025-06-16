@@ -1,0 +1,2 @@
+Description: A short, jarring "thud" or electrical "zzt" sound. Medium volume.
+Purpose: When the player helicopter takes damage.
