@@ -1,0 +1,2 @@
+Description: A simple green side-view of a helicopter, approx 50x20 pixels. Rotor blades visible on top. Small tail rotor.
+Default orientation: Facing right.

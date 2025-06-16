@@ -1,0 +1,2 @@
+Description: A slightly deeper "whoosh" sound followed by a faint hiss. Medium volume.
+Purpose: Player missile firing.

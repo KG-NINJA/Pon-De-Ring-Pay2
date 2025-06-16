@@ -1,0 +1,2 @@
+Description: A sleek, dark blue triangular/delta-wing jet shape, approx 30x30 pixels.
+Default orientation: Pointing right. Small cockpit bump detail.

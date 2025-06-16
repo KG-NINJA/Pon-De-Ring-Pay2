@@ -1,0 +1,2 @@
+Description: A dark gray square base (approx 30x30 pixels) with a lighter gray gun barrel pointing upwards from the center.
+Default orientation: Barrel pointing up. Base is flat.

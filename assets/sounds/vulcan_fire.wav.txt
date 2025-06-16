@@ -1,0 +1,2 @@
+Description: A rapid series of short, sharp "phew" or "tic-tic-tic" sounds. Low volume.
+Purpose: Player Vulcan cannon firing.

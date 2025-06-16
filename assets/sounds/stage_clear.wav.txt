@@ -1,0 +1,2 @@
+Description: A positive, short musical fanfare or a series of ascending tones. Medium volume.
+Purpose: Played when all required targets in a stage are destroyed.
